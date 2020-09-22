@@ -1,0 +1,8 @@
+Ideas on how the model could be improved:
+
+Add new features like a vectorized and embedded form of the Player Lines, relationships between lines, etc.
+
+Train separate models for each play and use a different model based on which characters are in that play. 
+
+Tune the hyperparameters of the models.
+
